@@ -4,6 +4,7 @@ Learn about basic Java programs including methods, classes, and user input
 
 ## Get Started
 Download JGrasp or another Java IDE http://spider.eng.auburn.edu/user-cgi/grasp/grasp.pl?;dl=download_jgrasp.html
+Download instructions here: https://drive.google.com/file/d/1F03RWTV3ikh38MA10WXcJTKxS1iLOvuO/view?usp=sharing
 
 ## Uses
 Java is a low-level programming language, often used in online applications, like Twitter, and Android apps. Java uses a RunTime environment and a Java Virtual Machine. Java can be used to create graphics and solve problems.
