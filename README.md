@@ -3,7 +3,6 @@ Hack BI IV - beginner java workshop
 Learn about basic Java programs including methods, classes, and user input
 
 ## Get Started
-Download JGrasp or another Java IDE http://spider.eng.auburn.edu/user-cgi/grasp/grasp.pl?;dl=download_jgrasp.html
 Download instructions here: https://drive.google.com/file/d/1F03RWTV3ikh38MA10WXcJTKxS1iLOvuO/view?usp=sharing
 
 ## Uses
